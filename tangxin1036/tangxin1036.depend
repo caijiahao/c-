@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477665408 source:d:\code block\code\tangxin1036\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
