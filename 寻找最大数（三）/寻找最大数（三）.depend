@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477753374 source:d:\code block\code\寻找最大数（三）\main.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
